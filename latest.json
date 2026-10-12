@@ -1,0 +1,6 @@
+{
+  "version": "3.0.0",
+  "bundle": "service-live-3.0.0.lvupdate",
+  "sha256": "2e520c5f36d315b222f061ef10e4d6cb44e001690a6e4c38a626c8639ab5d424",
+  "notes": "Service Live 3.0: a loading screen that runs startup checks, tidier Settings (renamed options, no intro text), reset week-over-week averages, and no warnings on Mic Assignments."
+}
